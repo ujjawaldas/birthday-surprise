@@ -695,7 +695,7 @@ function typeLetter(){
 
         }
 
-    },55);        // slower typing
+    },80);        // slower typing
 
 }
 
