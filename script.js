@@ -481,6 +481,12 @@ const giftContainer=document.getElementById("giftContainer");
 
 giftContainer.onclick=()=>{
 
+    const music = document.getElementById("music");
+
+    music.play().catch(error => {
+        console.log("Music could not start:", error);
+    });
+
 gift.classList.add("shake");
 
 setTimeout(()=>{
