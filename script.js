@@ -525,25 +525,23 @@ alert("❤️ Your Love Letter Appears Next ❤️");
 // LOVE LETTER
 //--------------------------------------------------
 
-const letter = `Happy Birthday, My Love ❤️
+const letter = `Radhika, ❤️
 
-You are the most beautiful chapter of my life.
+Thankyou so much for being born in this world.
 
-Every smile of yours lights up my world.
+Or usse bhi zyda shukraguzaar mjhse milne k liye,
 
-Thank you for always believing in me.
+Aise bahut saare birthdays m tmhre sth bitana chahta hu,
 
-Thank you for making ordinary days feel magical.
+Tmhre sth sb kch experience krna chahta hu,
 
-I hope today brings you as much happiness as you bring into my life.
+Tmhre sth apni puri lyf bitana chahta hu,
 
-I promise to stand beside you,
-support you,
-and love you with all my heart.
+Hmesha hmesha k liye
 
 Happy Birthday once again.
 
-I Love You Forever ❤️`;
+I Love You sbse zyda meri pyaari Bubu❤️`;
 
 
 
