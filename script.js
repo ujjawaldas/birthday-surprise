@@ -544,9 +544,17 @@ alert("❤️ Your Love Letter Appears Next ❤️");
 
 const letter = `Radhika, ❤️
 
-Thankyou so much for being born in this world.
+Happy Birthday!!
 
-Or usse bhi zyda shukraguzaar mjhse milne k liye,
+Birthday k din wish pta h sach ho jti h,
+
+isliye m wish krta hu ki hm hmesha tmhra birthday sth m celebrate krnge,
+
+Iss saal bhi m tmhe bahut saara pyaar krunga,
+
+Preshnn bhi krunga,
+
+Or vada krta hu hmesha tmhra sth dunga,
 
 Aise bahut saare birthdays m tmhre sth bitana chahta hu,
 
