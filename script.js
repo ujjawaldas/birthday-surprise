@@ -481,7 +481,11 @@ const giftContainer=document.getElementById("giftContainer");
 
 giftContainer.onclick=()=>{
 
+    console.log("🎁 Gift clicked");
+
     const music = document.getElementById("music");
+    console.log(music);
+
 
     music.currentTime = 0;
 
