@@ -564,7 +564,7 @@ Tmhre sth apni puri lyf bitana chahta hu,
 
 Hmesha hmesha k liye
 
-Happy Birthday once again.
+Happy Birthday Meri Pyaari Bubu.
 
 I Love You sbse zyda meri pyaari Bubu❤️`;
 
